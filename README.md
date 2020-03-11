@@ -11,3 +11,18 @@ Ik heb al verscheidene keren een technologiekamp gegeven voor [ideekids](http://
 Op deze kampen heb ik Cristina leren kennen en zo verder 
 
 Deze zomer geef ik een kamp met [freetime](http://freetime.be) rond Technologie
+
+
+
+## 2D ontwerp
+
+![inkscape](https://raw.githubusercontent.com/Maarzor/MaartenDePauw/master/inkscape.png)
+
+
+Deze week leerden we werken met inkscape. 
+
+In inkscape maken we de files om te gebruiken voor de lasercutter. 
+
+
+
+
